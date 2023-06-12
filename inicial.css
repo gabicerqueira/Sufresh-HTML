@@ -257,3 +257,32 @@ h2{
     width: 200px;
     height: 50px;
     }
+
+
+.titulo{
+    font: 400 70px 'Roboto Condensed', sans-serif;
+    top: 2000px;
+    justify-content: center;
+    text-align: center;
+    left: 420px;
+}
+
+.diadosuco{
+    font: 400 64px 'Raleway', sans-serif;
+    top: 2210px;
+    left: 350px;
+}
+
+.limao{
+    position: absolute;
+    width: 100%;
+    height: 1000px;
+    top: 1895px;
+}
+
+.anuncio{
+    position: absolute;
+    width: 200px;
+    top: 2190px;
+    left: 90px;
+}
